@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/zYQyqZAYzfhtqz3S5ECfC5f39yFCc7GJ767MwzHyF0HijR5V3zWEp3GkftFtLME5UljuGZlvV6hsAulbQ/3w==",
+  "success": true,
+  "projectFilePath": "K:\\PROGRAMMING\\C# Projects\\CodeWars\\CodeWars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cedie_asd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\cedie_asd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cedie_asd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cedie_asd\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

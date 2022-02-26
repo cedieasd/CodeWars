@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ea0be45-4246-411f-a453-7e7c87e065cc": {
+      "ProjectGuid": "7ea0be45-4246-411f-a453-7e7c87e065cc",
+      "DisplayName": "CodeWars",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
